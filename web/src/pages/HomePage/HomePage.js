@@ -15,7 +15,7 @@ const HomePage = () => {
       </div>
       <div className="pt-4 d-flex justify-content-center">
         <h1 className="flex justify-center text-5xl text-red-700">
-          RedwoodJS Indonesia
+          Blog RedwoodJS Indonesia
         </h1>
       </div>
       <div className="mt-2 p-6 mx-auto flex max-w-xl rounded shadow-lg bg-red-800 text-white">
